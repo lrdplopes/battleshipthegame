@@ -33,10 +33,10 @@ Projeto / Jogo <b>"Batalha Naval"</b> desenvolvido conforme desafio do Livro [He
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/lrdplopes/Happy-NLW
+    $ git clone https://github.com/lrdplopes/battleshipthegame
 
     #Acessar o repositório
-    $ cd Happy-NLW
+    $ cd battleshipthegame
 
     #Instalar suas dependências
     $yarn install
